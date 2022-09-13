@@ -31,10 +31,10 @@
   
   <entry>
     <title>测试</title>
-    <link href="/2022/09/11/456/"/>
-    <url>/2022/09/11/456/</url>
+    <link href="/2022/09/11/%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/09/11/%E6%B5%8B%E8%AF%95/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/09/11/%E6%B5%8B%E8%AF%95/%E4%B8%8B%E8%BD%BD.png" class="">]]></content>
     
     
     
@@ -52,10 +52,10 @@
   
   <entry>
     <title>测试</title>
-    <link href="/2022/09/11/%E6%B5%8B%E8%AF%95/"/>
-    <url>/2022/09/11/%E6%B5%8B%E8%AF%95/</url>
+    <link href="/2022/09/11/456/"/>
+    <url>/2022/09/11/456/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/09/11/%E6%B5%8B%E8%AF%95/%E4%B8%8B%E8%BD%BD.png" class="">]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     
     
